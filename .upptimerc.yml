@@ -7,8 +7,6 @@ sites:
     url: https://user.p0ntus.com
   - name: Mail Server Dashboard
     url: https://mail.p0ntus.com
-  - name: My Website
-    url: https://aidxn.fun
   - name: Archive Website
     url: https://p0ntus.com
 
