@@ -22,19 +22,19 @@
     "url": "https://mail.p0ntus.com",
     "icon": "https://icons.duckduckgo.com/ip3/mail.p0ntus.com.ico",
     "slug": "mail-server-dashboard",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 241,
-    "timeDay": 241,
-    "timeWeek": 241,
-    "timeMonth": 241,
-    "timeYear": 241,
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
+    "time": 230,
+    "timeDay": 230,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2024-12-04": 0
+      "2024-12-04": 6
     }
   },
   {
