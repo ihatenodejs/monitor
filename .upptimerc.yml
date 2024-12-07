@@ -7,6 +7,8 @@ sites:
     url: https://user.p0ntus.com
   - name: Mail Server Dashboard
     url: https://mail.p0ntus.com
+  - name: Vaultwarden
+    url: https://vaultwarden.p0ntus.com
   - name: Archive Website
     url: https://p0ntus.com
   - name: Main Website
