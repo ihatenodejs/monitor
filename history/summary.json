@@ -4,18 +4,20 @@
     "url": "https://user.p0ntus.com",
     "icon": "https://icons.duckduckgo.com/ip3/user.p0ntus.com.ico",
     "slug": "mail-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 379,
     "timeDay": 557,
-    "timeWeek": 423,
+    "timeWeek": 432,
     "timeMonth": 379,
     "timeYear": 379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 0
+    }
   },
   {
     "name": "Mail Server Dashboard",
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 269,
     "timeDay": 418,
-    "timeWeek": 292,
+    "timeWeek": 294,
     "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 623,
     "timeDay": 835,
-    "timeWeek": 623,
+    "timeWeek": 648,
     "timeMonth": 623,
     "timeYear": 623,
     "dailyMinutesDown": {}
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 447,
     "timeDay": 492,
-    "timeWeek": 447,
+    "timeWeek": 457,
     "timeMonth": 447,
     "timeYear": 447,
     "dailyMinutesDown": {}
