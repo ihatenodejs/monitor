@@ -15,6 +15,12 @@ sites:
     url: https://aidxn.fun
   - name: Retro Main Website
     url: https://old.aidxn.fun
+  - name: modules
+    url: https://modules.lol
+  - name: Blog Website
+    url: https://blog.aidxn.fun
+  - name: Friend's Website
+    url: https://aiden.p0ntus.com
 
 status-website:
   cname: status.p0ntus.com
