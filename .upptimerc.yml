@@ -18,7 +18,9 @@ sites:
   - name: modules
     url: https://modules.lol
   - name: Friend's Website
-    url: https://aiden.p0ntus.com
+    url: https://imaiden.fun
+  - name: Friend's Website Alt
+    url: https://iamaiden.fun
 
 status-website:
   cname: status.p0ntus.com
