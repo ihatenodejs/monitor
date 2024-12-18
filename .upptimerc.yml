@@ -6,7 +6,7 @@ sites:
   - name: Mail Server
     url: https://user.p0ntus.com
   - name: Mail Server Dashboard
-    url: https://mail.p0ntus.com
+    url: https://pontusmail.org
   - name: Vaultwarden
     url: https://vaultwarden.p0ntus.com
   - name: Archive Website
