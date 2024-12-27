@@ -17,10 +17,6 @@ sites:
     url: https://old.aidxn.fun
   - name: modules
     url: https://modules.lol
-  - name: Friend's Website
-    url: https://imaiden.fun
-  - name: Friend's Website Alt
-    url: https://iamaiden.fun
 
 status-website:
   cname: status.p0ntus.com
