@@ -1,7 +1,7 @@
 url: https://pontusmail.org
-status: up
-code: 200
-responseTime: 468
-lastUpdated: 2025-01-02T05:47:19.945Z
+status: down
+code: 502
+responseTime: 335
+lastUpdated: 2025-01-02T05:53:23.414Z
 startTime: 2024-12-03T14:25:09.839Z
 generator: Upptime <https://github.com/upptime/upptime>
