@@ -1,8 +1,8 @@
 [
   {
     "name": "Main Website",
-    "url": "https://aidxn.cc",
-    "icon": "https://icons.duckduckgo.com/ip3/aidxn.cc.ico",
+    "url": "https://www.aidxn.cc",
+    "icon": "https://icons.duckduckgo.com/ip3/www.aidxn.cc.ico",
     "slug": "main-website",
     "status": "up",
     "uptime": "99.64%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.64%",
-    "time": 587,
-    "timeDay": 437,
-    "timeWeek": 449,
-    "timeMonth": 588,
-    "timeYear": 587,
+    "time": 578,
+    "timeDay": 346,
+    "timeWeek": 417,
+    "timeMonth": 579,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2024-12-17": 171
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 423,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "time": 459,
+    "timeDay": 459,
+    "timeWeek": 459,
+    "timeMonth": 459,
+    "timeYear": 459,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.86%",
-    "time": 397,
-    "timeDay": 504,
-    "timeWeek": 332,
-    "timeMonth": 408,
-    "timeYear": 397,
+    "time": 396,
+    "timeDay": 448,
+    "timeWeek": 333,
+    "timeMonth": 407,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2024-12-19": 18,
       "2024-12-14": 24,
@@ -65,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pontusmail.org.ico",
     "slug": "mail-server-dashboard",
     "status": "up",
-    "uptime": "96.39%",
+    "uptime": "96.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.01%",
     "uptimeMonth": "96.05%",
-    "uptimeYear": "96.39%",
+    "uptimeYear": "96.40%",
     "time": 392,
-    "timeDay": 385,
-    "timeWeek": 413,
-    "timeMonth": 399,
+    "timeDay": 320,
+    "timeWeek": 412,
+    "timeMonth": 398,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2025-01-02": 427,
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 397,
-    "timeDay": 302,
-    "timeWeek": 242,
-    "timeMonth": 397,
-    "timeYear": 397,
+    "time": 392,
+    "timeDay": 262,
+    "timeWeek": 235,
+    "timeMonth": 392,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2024-12-14": 24
     }
@@ -115,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 264,
-    "timeDay": 347,
-    "timeWeek": 209,
-    "timeMonth": 265,
-    "timeYear": 264,
+    "time": 263,
+    "timeDay": 303,
+    "timeWeek": 210,
+    "timeMonth": 264,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2024-12-14": 24
     }
@@ -135,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 515,
-    "timeDay": 421,
-    "timeWeek": 375,
-    "timeMonth": 520,
-    "timeYear": 515,
+    "time": 513,
+    "timeDay": 418,
+    "timeWeek": 380,
+    "timeMonth": 518,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2024-12-17": 15
     }
@@ -155,19 +155,19 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 313,
-    "timeDay": 254,
-    "timeWeek": 236,
-    "timeMonth": 313,
-    "timeYear": 313,
+    "time": 307,
+    "timeDay": 218,
+    "timeWeek": 226,
+    "timeMonth": 307,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2024-12-18": 41
     }
   },
   {
     "name": "p0ntus pics (work in progress)",
-    "url": "https://pontus.pics",
-    "icon": "https://icons.duckduckgo.com/ip3/pontus.pics.ico",
+    "url": "https://www.pontus.pics",
+    "icon": "https://icons.duckduckgo.com/ip3/www.pontus.pics.ico",
     "slug": "p0ntus-pics-work-in-progress",
     "status": "up",
     "uptime": "100.00%",
@@ -184,8 +184,8 @@
   },
   {
     "name": "ihate.college (work in progress)",
-    "url": "https://ihate.college",
-    "icon": "https://icons.duckduckgo.com/ip3/ihate.college.ico",
+    "url": "https://www.ihate.college",
+    "icon": "https://icons.duckduckgo.com/ip3/www.ihate.college.ico",
     "slug": "ihate-college-work-in-progress",
     "status": "up",
     "uptime": "100.00%",
@@ -198,6 +198,24 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "WikiTools",
+    "url": "https://www.wikitools.cloud",
+    "icon": "https://icons.duckduckgo.com/ip3/www.wikitools.cloud.ico",
+    "slug": "wiki-tools",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 144,
+    "timeDay": 144,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   }
 ]
