@@ -23,8 +23,14 @@ sites:
     url: https://www.pontus.pics
   - name: ihate.college (work in progress)
     url: https://www.ihate.college
-  - name: WikiTools
+  - name: WikiTools (work in progress)
     url: https://www.wikitools.cloud
+  - name: strongintegrity.life (work in progress)
+    url: https://www.strongintegrity.life
+  - name: dontbeevil.lol (work in progress)
+    url: https://www.dontbeevil.lol
+  - name: dont-be-evil.lol (possible redirect) (wip)
+    url: https://www.dont-be-evil.lol
 
 status-website:
   cname: status.p0ntus.com
