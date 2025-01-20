@@ -7,10 +7,10 @@ sites:
     url: https://www.aidxn.cc
   - name: Alt Main Website
     url: https://aidxn.fun
-  - name: Mail Server
-    url: https://user.p0ntus.com
-  - name: Mail Server Dashboard
+  - name: Mail Server Home
     url: https://pontusmail.org
+  - name: Mail Server and Dashboard
+    url: https://user.pontusmail.org
   - name: Vaultwarden
     url: https://vaultwarden.p0ntus.com
   - name: Archive Website
