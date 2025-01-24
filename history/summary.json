@@ -61,18 +61,20 @@
     "url": "https://user.pontusmail.org",
     "icon": "https://icons.duckduckgo.com/ip3/user.pontusmail.org.ico",
     "slug": "mail-server-and-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 284,
-    "timeWeek": 405,
-    "timeMonth": 405,
-    "timeYear": 405,
-    "dailyMinutesDown": {}
+    "time": 378,
+    "timeDay": 264,
+    "timeWeek": 378,
+    "timeMonth": 378,
+    "timeYear": 378,
+    "dailyMinutesDown": {
+      "2025-01-24": 0
+    }
   },
   {
     "name": "Vaultwarden",
