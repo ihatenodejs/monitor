@@ -25,19 +25,19 @@
     "url": "https://librecloud.cc",
     "icon": "https://icons.duckduckgo.com/ip3/librecloud.cc.ico",
     "slug": "libre-cloud",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 229,
     "timeDay": 204,
     "timeWeek": 229,
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-02-21": 34
+      "2025-02-21": 36
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://mail.librecloud.cc",
     "icon": "https://icons.duckduckgo.com/ip3/mail.librecloud.cc.ico",
     "slug": "libre-cloud-webmail",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 207,
     "timeDay": 180,
     "timeWeek": 207,
     "timeMonth": 207,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-02-21": 34
+      "2025-02-21": 36
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://vaultwarden.p0ntus.com",
     "icon": "https://icons.duckduckgo.com/ip3/vaultwarden.p0ntus.com.ico",
     "slug": "libre-cloud-pass-vaultwarden",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 209,
     "timeDay": 173,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-02-21": 34
+      "2025-02-21": 36
     }
   },
   {
@@ -123,9 +123,9 @@
     "url": "https://disfunction.blog",
     "icon": "https://icons.duckduckgo.com/ip3/disfunction.blog.ico",
     "slug": "disfunction-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "97.64%",
+    "uptimeDay": "97.63%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.39%",
