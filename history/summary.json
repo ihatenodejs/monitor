@@ -123,19 +123,19 @@
     "url": "https://disfunction.blog",
     "icon": "https://icons.duckduckgo.com/ip3/disfunction.blog.ico",
     "slug": "disfunction-blog",
-    "status": "down",
-    "uptime": "98.86%",
-    "uptimeDay": "95.55%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "98.86%",
-    "time": 467,
-    "timeDay": 428,
-    "timeWeek": 467,
-    "timeMonth": 467,
-    "timeYear": 467,
+    "status": "up",
+    "uptime": "98.57%",
+    "uptimeDay": "94.38%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.57%",
+    "time": 468,
+    "timeDay": 437,
+    "timeWeek": 468,
+    "timeMonth": 468,
+    "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-02-21": 64
+      "2025-02-21": 81
     }
   },
   {
