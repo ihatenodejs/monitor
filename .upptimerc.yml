@@ -11,6 +11,10 @@ sites:
     url: https://mail.librecloud.cc
   - name: LibreCloud Pass (Vaultwarden)
     url: https://vaultwarden.p0ntus.com
+  - name: LibreCloud Authentik
+    url: https://auth.librecloud.cc
+  - name: LibreCloud Gitea
+    url: https://git.pontusmail.org
   - name: Alt Main Website
     url: https://aidxn.fun
   - name: aidxnFUNretro
