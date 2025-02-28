@@ -135,19 +135,19 @@
     "url": "https://aidxn.fun",
     "icon": "https://icons.duckduckgo.com/ip3/aidxn.fun.ico",
     "slug": "alt-main-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 527,
-    "timeWeek": 530,
-    "timeMonth": 568,
-    "timeYear": 564,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 583,
+    "timeDay": 1140,
+    "timeWeek": 666,
+    "timeMonth": 601,
+    "timeYear": 583,
     "dailyMinutesDown": {
-      "2025-02-28": 0
+      "2025-02-28": 4
     }
   },
   {
