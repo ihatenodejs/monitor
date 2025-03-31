@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aidxn.cc.ico",
     "slug": "main-website",
     "status": "down",
-    "uptime": "97.70%",
-    "uptimeDay": "55.70%",
-    "uptimeWeek": "63.77%",
-    "uptimeMonth": "91.66%",
-    "uptimeYear": "97.70%",
+    "uptime": "97.67%",
+    "uptimeDay": "52.23%",
+    "uptimeWeek": "63.27%",
+    "uptimeMonth": "91.55%",
+    "uptimeYear": "97.67%",
     "time": 204,
-    "timeDay": 128,
+    "timeDay": 127,
     "timeWeek": 146,
-    "timeMonth": 146,
+    "timeMonth": 145,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-03-30": 636,
+      "2025-03-31": 46,
+      "2025-03-30": 640,
       "2025-03-29": 636,
       "2025-03-28": 714,
       "2025-03-27": 1260,
@@ -39,7 +40,7 @@
     "time": 339,
     "timeDay": 425,
     "timeWeek": 358,
-    "timeMonth": 370,
+    "timeMonth": 369,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2025-03-12": 577,
@@ -63,7 +64,7 @@
     "time": 260,
     "timeDay": 328,
     "timeWeek": 255,
-    "timeMonth": 262,
+    "timeMonth": 264,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2025-03-12": 577,
@@ -111,7 +112,7 @@
     "time": 468,
     "timeDay": 517,
     "timeWeek": 447,
-    "timeMonth": 465,
+    "timeMonth": 469,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2025-03-12": 576,
@@ -133,7 +134,7 @@
     "time": 391,
     "timeDay": 378,
     "timeWeek": 307,
-    "timeMonth": 373,
+    "timeMonth": 376,
     "timeYear": 391,
     "dailyMinutesDown": {
       "2025-03-12": 576,
@@ -154,7 +155,7 @@
     "time": 586,
     "timeDay": 391,
     "timeWeek": 514,
-    "timeMonth": 590,
+    "timeMonth": 625,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2025-03-09": 22
@@ -174,7 +175,7 @@
     "time": 446,
     "timeDay": 278,
     "timeWeek": 230,
-    "timeMonth": 286,
+    "timeMonth": 289,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2025-03-12": 575,
@@ -198,7 +199,7 @@
     "time": 499,
     "timeDay": 452,
     "timeWeek": 453,
-    "timeMonth": 486,
+    "timeMonth": 490,
     "timeYear": 499,
     "dailyMinutesDown": {
       "2025-03-12": 575,
@@ -222,7 +223,7 @@
     "time": 274,
     "timeDay": 317,
     "timeWeek": 266,
-    "timeMonth": 266,
+    "timeMonth": 268,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2025-03-12": 574,
@@ -274,7 +275,7 @@
     "time": 348,
     "timeDay": 375,
     "timeWeek": 314,
-    "timeMonth": 320,
+    "timeMonth": 324,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2025-03-12": 573,
