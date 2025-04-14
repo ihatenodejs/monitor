@@ -1,7 +1,5 @@
-# Change these first 
-owner: ihatenodejs # Your GitHub organization or username, where this repository lives
-repo: monitor # The name of this repository
-
+owner: ihatenodejs
+repo: monitor
 sites:
   - name: Main Website
     url: https://www.aidxn.cc
@@ -10,7 +8,7 @@ sites:
   - name: LibreCloud Webmail
     url: https://mail.librecloud.cc
   - name: LibreCloud Pass (Vaultwarden)
-    url: https://vaultwarden.p0ntus.com
+    url: https://pass.librecloud.cc
   - name: LibreCloud Authentik
     url: https://auth.librecloud.cc
   - name: LibreCloud Gitea
@@ -27,7 +25,6 @@ sites:
     url: https://old.aidxn.fun
   - name: modules
     url: https://modules.lol
-
 status-website:
   cname: status.p0ntus.com
   logoUrl: https://raw.githubusercontent.com/ihatenodejs/ihatenodejs/refs/heads/main/aidan.jpeg
@@ -39,6 +36,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
