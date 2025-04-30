@@ -1,8 +1,6 @@
 owner: ihatenodejs
 repo: monitor
 sites:
-  - name: Main Website
-    url: https://aidxn.cc
   - name: LibreCloud
     url: https://librecloud.cc
   - name: LibreCloud Webmail
